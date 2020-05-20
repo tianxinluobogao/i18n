@@ -62,6 +62,6 @@ npm -v
 
 ## 合适的代码编辑器
 
-我们建议你使用GitHub 的 [Atom](https://atom.io/) 或者微软的 [Visual Studio Code](https://code.visualstudio.com/)，这两款当下热门的编辑器都是使用Electron开发的。 而且对JavaScript的支持也都很棒。
+我们建议你使用GitHub 的 [Atom](https://atom.io/) 或者微软的 [Visual Studio Code](https://code.visualstudio.com/)，Electron都是使用这两款当下热门的编辑器开发的。 而且对JavaScript的支持也都很棒。
 
 如果您是众多开发人员中的一员，您应知道几乎所有的代码编辑器和IDE都是支持JavaScript的。
